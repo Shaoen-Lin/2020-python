@@ -1,0 +1,11 @@
+a="你的餐點多少錢"
+b=200
+print(a,b) 
+print(type(a))
+print(len(a))
+#len字串長度
+print(a[0])
+print(a[0:2])
+#顯示第0~第1的字串
+print(a[0:])
+#顯示第0~最後的字串
