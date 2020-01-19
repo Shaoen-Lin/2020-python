@@ -3,6 +3,15 @@
 
 ### Python 程式設計
 - p01.py
+``` python
+a=10
+#宣告整數變數
+print(a)
+print(type(a))
+  
+a=20
+print(a) 
+```
 - p02.py
 - po3.py
 - p04.py
@@ -14,10 +23,10 @@
 - p10.py
 - p11.py
 - p12.py
-- p13.py
 ### Mirco:rbit 設計
-- 01.py
-- p02.py
-- po3.py
+- m01.py
+- m02.py
+- mo3.py
+- m04.py
 
 ### Web:bit 設計
