@@ -10,14 +10,9 @@ print(a)
 print(type(a))
   
 a=20
-print(a) 
+print(a)
 ```
 - p02.py
-``` python
-a=2**100000000000
-print(a)
-#"ctrl c 終止運算 **指數
-```
 - po3.py
 - p04.py
 - p05.py
