@@ -23,6 +23,7 @@ print(a)
 - p10.py
 - p11.py
 - p12.py
+- p13.py
 ### Mircor:bit 設計
 - m01.py
 - m02.py
